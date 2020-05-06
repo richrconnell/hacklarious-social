@@ -19,7 +19,7 @@ const store = createStore(
 
 // prevent auth error on first run of subscription
 let currentState = {
-  auth: { token: null, isAuthenticated: null, loading: true, user: null },
+  auth: { token: null, isAuthenticated: null, loading: true, user: null }
 };
 
 store.subscribe(() => {
