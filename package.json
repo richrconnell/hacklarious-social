@@ -4,7 +4,7 @@
   "description": "Social network site",
   "engines": {
     "node": "12.16.3"
-  }
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server",
