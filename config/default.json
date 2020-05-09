@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://rc001:password01@devconnector-h6bbe.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://hack101:<password>@hacklariouscluster-ltd4j.mongodb.net/test?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken",
-    "githubClientId": "72c598ef019ea9683ea4",
-    "githubSecret": "b325c38a519b0929a4c9e51006c75a9fe8aaacad"
+    "githubClientId": "e7a45bb295c53d02efdb",
+    "githubSecret": "e5bcb829b423c25b276b9b9afbd79afe6a0c6e2d"
 }
